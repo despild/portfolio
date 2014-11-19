@@ -1,0 +1,49 @@
+
+.contentsHeader{
+	padding:1px;
+	padding-left:40px;
+	margin:0px;
+	border:1px solid #BBB;
+	border-radius: 20px;
+	background-color:#EEE;
+}
+.contentsTitle{
+	padding:1px;
+	padding-left:0px;
+	margin:0px;
+	
+}
+
+a:hover{
+	color:red;
+}
+a{
+	color:#1A3BAF;
+	text-decoration: none;
+}
+img{
+	width:300px;
+}
+/*div.typo{
+	position:absolute;
+}
+div.gw{
+	position:absolute;
+}*/
+div.imgWrapper{
+	
+	position:relative;
+}
+div.description{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	display:none;
+	background-color: black;
+	font-family:'tahoma';
+	font-size:15px;
+	color:white;
+}
+div.descriptonContent{
+	padding:10px;
+}
